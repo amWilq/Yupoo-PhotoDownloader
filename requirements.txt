@@ -1,4 +1,4 @@
 requests
 retrying
 bs4
-
+pandas
